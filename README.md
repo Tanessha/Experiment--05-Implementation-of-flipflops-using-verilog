@@ -1,5 +1,6 @@
 ## NAME: Tanessha Kannan
 ## REGISTER NUMBER:23006086
+## EXPT NO: 5- Implementation of flipflops using verilog programming.
 ## AIM: 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
 ## HARDWARE REQUIRED:  
